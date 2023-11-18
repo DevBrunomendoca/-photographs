@@ -92,12 +92,12 @@ useLayoutEffect (() => {
       <div className="social-media hidden-left" id='hidden-left-2'>
         <h3 className=''>FINDE ME ON</h3>
         <div className="social-media-logo hidden-left">
-          <a href="#"> <img src="./public/images/facebook.png" className='hidden-left' alt="image" /></a>
-          <a href="#"> <img src="./public/images/instagram.png" className='hidden-left' alt="image" /></a>
-          <a href="#"> <img src="./public/images/linkedin.png" className='hidden-left' alt="image" /></a>
+          <a href="#"> <img src="/images/facebook.png" className='hidden-left' alt="image" /></a>
+          <a href="#"> <img src="/images/instagram.png" className='hidden-left' alt="image" /></a>
+          <a href="#"> <img src="/images/linkedin.png" className='hidden-left' alt="image" /></a>
         </div>
       </div>
-      <img className="hidden-right" id="image-about" src="./public/images/ImageComACamera.jpg" alt="" />
+      <img className="hidden-right" id="image-about" src="/images/ImageComACamera.jpg" alt="" />
     </section>
   )
 }

@@ -47,19 +47,19 @@ useLayoutEffect (() => {
       <h2 className='pack-title'>OUR FEATURED PACKAGES</h2>
       <div className="pack">
         <div className='pack-container' id='pack-container-1'>
-          <img src="./public/images/collection-1.jpg" alt="" />
+          <img src="/images/collection-1.jpg" alt="" />
           <h3>WEDDING COLLECTION 1</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
           <span>VIEW MORE</span>
         </div>
         <div className='pack-container'>
-          <img src="./public/images/collection-2.jpg" id='pack-container-2' alt="" />
+          <img src="/images/collection-2.jpg" id='pack-container-2' alt="" />
           <h3>WEDDING COLLECTION 2</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
           <span>VIEW MORE</span>
         </div>
         <div className='pack-container'>
-          <img src="./public/images/collection-3.jpg" id='pack-container-3' alt="img" />
+          <img src="/images/collection-3.jpg" id='pack-container-3' alt="img" />
           <h3>WEDDING COLLECTION 3</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
           <span>VIEW MORE</span>

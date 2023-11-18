@@ -74,12 +74,12 @@ const Carousel = () => {
   
   return (
     <div className="carousel" ref={el}>
-      <img src="./public/images/carrosel-1.jpg" id='img-carousel-1' alt="" />
-      <img src="./public/images/carrosel-2.jpg" id='img-carousel-2' alt="" />
-      <img src="./public/images/carrosel-3.jpg" id='img-carousel-3' alt="" />
-      <img src="./public/images/carrosel-4.jpg" id='img-carousel-4' alt="" />
-      <img src="./public/images/carrosel-5.jpg" id='img-carousel-5' alt="" />
-      <img src="./public/images/carrosel-6.jpg" id='img-carousel-6' alt="" />
+      <img src="/images/carrosel-1.jpg" id='img-carousel-1' alt="" />
+      <img src="/images/carrosel-2.jpg" id='img-carousel-2' alt="" />
+      <img src="/images/carrosel-3.jpg" id='img-carousel-3' alt="" />
+      <img src="/images/carrosel-4.jpg" id='img-carousel-4' alt="" />
+      <img src="/images/carrosel-5.jpg" id='img-carousel-5' alt="" />
+      <img src="/images/carrosel-6.jpg" id='img-carousel-6' alt="" />
     </div>
   )
 }

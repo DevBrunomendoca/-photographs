@@ -63,7 +63,7 @@ return () => {
   
   return (
     <section className="contact" ref={el}>
-      <img className='contact-image' id='image-contact' src="./public/images/Imagen-contact.jpg" alt="" />
+      <img className='contact-image' id='image-contact' src="/images/Imagen-contact.jpg" alt="" />
       <div className='contact-containerr '>
         <div className="contact-container" id='contact-container1'>
           <h2>GET IN TOUCH</h2>

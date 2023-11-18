@@ -50,10 +50,10 @@ const Main = ({title}) => {
         </div>
       </div>
       
-        <SwiperSlide><img src="./public/images/slider-image-1.jpg" alt="Slider-one" /></SwiperSlide>
-        <SwiperSlide><img src="./public/images/slider-image-2.jpg" alt="Slider-one" /></SwiperSlide>
-        <SwiperSlide><img src="./public/images/slider-image-3.jpg" alt="Slider-one" /></SwiperSlide>
-        <SwiperSlide><img src="./public/images/slider-image-4.jpg" alt="Slider-one" /></SwiperSlide>
+        <SwiperSlide><img src="/images/slider-image-1.jpg" alt="Slider-one" /></SwiperSlide>
+        <SwiperSlide><img src="/images/slider-image-2.jpg" alt="Slider-one" /></SwiperSlide>
+        <SwiperSlide><img src="/images/slider-image-3.jpg" alt="Slider-one" /></SwiperSlide>
+        <SwiperSlide><img src="/images/slider-image-4.jpg" alt="Slider-one" /></SwiperSlide>
       </Swiper>
     </div>
   )

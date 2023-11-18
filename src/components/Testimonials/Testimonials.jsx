@@ -26,10 +26,10 @@ const Testimonials = () => {
   return (
     <section className="testimonials">
       <div className="container">
-        <img src="./public/images/aspas-duplas.png" id="aspas" alt="imagens-aspas"/>
+        <img src="/images/aspas-duplas.png" id="aspas" alt="imagens-aspas"/>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod minus culpa ab a provident excepturi!</p>
         <p>LORENA + ROBERTO</p>
-        <img src="./public/images/foto-casal.jpg" alt="" id="foto-casal"></img>
+        <img src="/images/foto-casal.jpg" alt="" id="foto-casal"></img>
       </div>
     </section>
   )

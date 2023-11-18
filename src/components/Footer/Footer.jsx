@@ -37,9 +37,9 @@ const Footer = () => {
       <div className="developed">
       <p>© Copyright | Developed By BRUNO MENDONÇA</p>
       <div>
-        <a href="#"><img src="./public/images/facebook.png" alt="Logo facebook"/></a>
-        <a href="#"><img src="./public/images/instagram.png" alt="Logo intagram"/></a>
-        <a href="#"><img src="./public/images/linkedin.png" alt="Logo linkedin"/></a>
+        <a href="#"><img src="/images/facebook.png" alt="Logo facebook"/></a>
+        <a href="#"><img src="/images/instagram.png" alt="Logo intagram"/></a>
+        <a href="#"><img src="/images/linkedin.png" alt="Logo linkedin"/></a>
       </div>
       </div>
     </footer>
