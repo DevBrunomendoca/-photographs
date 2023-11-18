@@ -1,0 +1,10 @@
+.carousel {
+  background-color: var(--background-secundary-color);
+  padding: 5rem 0 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 1.3rem;
+}
+.carousel img {
+  width: 15%;
+}

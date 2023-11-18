@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: var(--background-primary-color);
+  border: 13px solid #ffffff;
+  padding: 1.5rem 3rem;
+}
+.navigation a{
+  font-family: 'Ysabeau Infant', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--color-font);
+  padding-top: 5px;
+  opacity: 0.8;
+  text-decoration: none;
+  border-top: 2px solid transparent;
+  transition: ease-in-out 0.8s;
+}
+.navigation a:hover {
+  border-top: 2px solid var(--color-font);
+}
+.navigation-logo p {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  opacity: 0.8;
+  letter-spacing: 2px;
+}
